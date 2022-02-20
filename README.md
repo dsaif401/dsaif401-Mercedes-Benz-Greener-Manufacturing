@@ -4,7 +4,7 @@ Since the first automobile, the Benz Patent Motor Car in 1886, Mercedes-Benz has
 So task is to reduce the time that cars spend on the test bench. Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Daimler’s standards.
 
 # I performed following actions:
-* For any column(s), the variance is equal to zero,is removed.
+* Those column(s), which have variance is equal to zero,is removed.
 * Checked for null and unique values for test and train sets
 * Applied label encoder.
 * Performed dimensionality reduction.
